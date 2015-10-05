@@ -1,0 +1,10 @@
+{
+  "name": "bziiit",
+  "version": "0.0.0",
+  "dependencies": {
+    "async": "~1.4.2",
+    "jquery": "~2.1.4",
+    "jquery-ui": "~1.11.4",
+    "raphael": "~2.1.4"
+  }
+}
