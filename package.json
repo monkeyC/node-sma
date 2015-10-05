@@ -1,0 +1,11 @@
+{
+  "name": "your-app",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "evejs": "^0.4.6"
+  },
+  "devDependencies": {
+    "grunt-build-atom-shell": "^2.1.1"
+  }
+}
